@@ -17,7 +17,19 @@ Taking a look at the events listings and calendars will not help you with the is
 
 Our event planning tool Eventer will take the same data and turn it into easily digestible, visual format. You can explore the events at a certain time, in a given area or by some meaningful category or keyword.
 
-INSERT PICS
+### Number of weekly events by municipality
+
+Get an overview of quiet and busy periods in your city to avoid peak times and competition. Maybe spot a slow week and spur up some action to fill in the gap?
+
+![weekly-events-by-city](line-graph-weeks.png "Number of events per week by municipality").
+
+### Map 1
+
+
+
+### Map 2
+
+
 
 ## Benefits
 
