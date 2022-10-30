@@ -21,7 +21,7 @@ INSERT PICS
 
 ## Benefits
 
-- Having precise data reduces uncertainties and unfounded assupmtions in decision making
+- Having precise data reduces uncertainties and unfounded assumptions in decision making
 - More time can be spent on other aspects of the event planning
 - Identifying optimal time and place improves the chances of reaching a greater share of your desired audience
 
