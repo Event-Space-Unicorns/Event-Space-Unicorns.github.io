@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "introducing-eventer"
+title:  "Introducing Eventer"
 ---
 
 Content to be added in markdown
