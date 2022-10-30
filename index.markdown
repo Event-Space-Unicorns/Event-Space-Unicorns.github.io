@@ -26,16 +26,16 @@ Get an overview of quiet and busy periods in your city to avoid peak times and c
 
 ### Halloween is here
 
-Don't be in the dark when it comes to planning your Halloween event be it for kids and families or an adult audience.
+Don't be in the dark when it comes to planning your Halloween event be it for kids and families or a more mature audience. This map shows you where's happening on 29-30 October 2021.
 
-![halloween-events](halloween21.png)
+![halloween-events](halloween21_2days.png "Events on 29-30 October 2021")
 
 
-### Christmas-related events coming up in 2021
+### Christmas-related events coming up in 2022
 
 Christmas season is just around the corner! Want to sneak in one more sing-along Christmas carols gathering or a pop-up gift shop? See which neighborhoods still lack theirs.
 
-![christmas-events](xmas21_1month.png)
+![christmas-events](xmas21_1month.png "Christmas events in 2022")
 
 
 ## Benefits
