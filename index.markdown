@@ -23,12 +23,19 @@ Get an overview of quiet and busy periods in your city to avoid peak times and c
 
 ![weekly-events-by-city](line-graph-weeks.png "Number of events per week by municipality").
 
-### Map 1
+
+### Halloween is here
+
+Don't be in the dark when it comes to planning your Halloween event be it for kids and families or an adult audience.
+
+![halloween-events](halloween21.png)
 
 
+### Christmas-related events coming up in 2021
 
-### Map 2
+Christmas season is just around the corner! Want to sneak in one more sing-along Christmas carols gathering or a pop-up gift shop? See which neighborhoods still lack theirs.
 
+![christmas-events](xmas21_1month.png)
 
 
 ## Benefits
