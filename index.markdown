@@ -4,6 +4,7 @@
 
 layout: default
 theme: jekyll-theme-cayman
+title: Event Space Unicorns
 ---
 
 # Introducing Eventer - the ultimate event browsing and planning tool
