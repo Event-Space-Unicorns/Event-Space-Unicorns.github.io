@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Eventer - the ultimate event planning tool"
+title:  "introducing-eventer"
 ---
 
 Content to be added in markdown
